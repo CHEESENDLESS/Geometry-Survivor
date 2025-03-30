@@ -9,14 +9,14 @@ body {
 header {
     background-color: #333;
     color: #ffffff;
-    padding: 10px 20px;
+    padding: 5px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 header .logo img {
-    width: 100px;
+    width: 250px;
     height: auto;
 }
 
@@ -147,16 +147,6 @@ main {
 
 .hero .btn:hover {
     background-color: #e05e00;
-}
-
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 20px;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
 }
 
 .news {
